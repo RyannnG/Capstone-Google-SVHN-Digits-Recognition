@@ -20,6 +20,11 @@ Recommended setup for a simple Python script or web app/service:
       -- preprocess the real image of SVHN dataset
 4. Train multi.ipynb
       -- built several models to get best sequence recognition accuracy
+5. Train Multi 2 - 64*64.ipynb
+      -- building. The preprocessed image is 64 * 64
+6. Analysis.ipynb
+      -- line chart for report
+      
 
 
 ## Data
