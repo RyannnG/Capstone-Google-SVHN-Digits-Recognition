@@ -25,7 +25,10 @@ Recommended setup for a simple Python script or web app/service:
 6. Analysis.ipynb
       -- line chart for report
       
+      
+## Report
 
+      Capstone Project Report v2.pdf
 
 ## Data
 
